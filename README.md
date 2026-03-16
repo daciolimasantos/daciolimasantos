@@ -12,8 +12,8 @@ Python Developer | Backend | CLI Tools
 
 ## Projects
 
-- Task Manager CLI
-- More coming soon
+- Leetcode Projects
+- More coming soon, and the projects will evolve and be updated
 
 ## Goal
 
