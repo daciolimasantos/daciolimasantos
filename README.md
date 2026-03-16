@@ -12,7 +12,7 @@ Python Developer | Backend | CLI Tools
 
 ## Projects
 
-- Leetcode Projects
+- Leetcode Projects [Those projects are simple now, but i'll improve it with plots and usable interfaces for a better visual purpose]
 - More coming soon, and the projects will evolve and be updated
 
 ## Goal
